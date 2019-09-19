@@ -1,0 +1,11 @@
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.csprojAssemblyReference.cache
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.csproj.CoreCompileInputs.cache
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.AssemblyInfoInputs.cache
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.AssemblyInfo.cs
+/home/czn/Documents/kattis/bookingaroom/bin/Debug/netcoreapp2.2/bookingaroom.deps.json
+/home/czn/Documents/kattis/bookingaroom/bin/Debug/netcoreapp2.2/bookingaroom.runtimeconfig.json
+/home/czn/Documents/kattis/bookingaroom/bin/Debug/netcoreapp2.2/bookingaroom.runtimeconfig.dev.json
+/home/czn/Documents/kattis/bookingaroom/bin/Debug/netcoreapp2.2/bookingaroom.dll
+/home/czn/Documents/kattis/bookingaroom/bin/Debug/netcoreapp2.2/bookingaroom.pdb
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.dll
+/home/czn/Documents/kattis/bookingaroom/obj/Debug/netcoreapp2.2/bookingaroom.pdb
