@@ -1,0 +1,11 @@
+/home/czn/Documents/kattis/filip/bin/Debug/netcoreapp2.2/filip.deps.json
+/home/czn/Documents/kattis/filip/bin/Debug/netcoreapp2.2/filip.runtimeconfig.json
+/home/czn/Documents/kattis/filip/bin/Debug/netcoreapp2.2/filip.runtimeconfig.dev.json
+/home/czn/Documents/kattis/filip/bin/Debug/netcoreapp2.2/filip.dll
+/home/czn/Documents/kattis/filip/bin/Debug/netcoreapp2.2/filip.pdb
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.csprojAssemblyReference.cache
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.csproj.CoreCompileInputs.cache
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.AssemblyInfoInputs.cache
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.AssemblyInfo.cs
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.dll
+/home/czn/Documents/kattis/filip/obj/Debug/netcoreapp2.2/filip.pdb

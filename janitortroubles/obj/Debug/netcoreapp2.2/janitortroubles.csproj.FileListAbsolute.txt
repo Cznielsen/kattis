@@ -1,0 +1,11 @@
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.csprojAssemblyReference.cache
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.csproj.CoreCompileInputs.cache
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.AssemblyInfoInputs.cache
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.AssemblyInfo.cs
+/home/czn/Documents/kattis/janitortroubles/bin/Debug/netcoreapp2.2/janitortroubles.deps.json
+/home/czn/Documents/kattis/janitortroubles/bin/Debug/netcoreapp2.2/janitortroubles.runtimeconfig.json
+/home/czn/Documents/kattis/janitortroubles/bin/Debug/netcoreapp2.2/janitortroubles.runtimeconfig.dev.json
+/home/czn/Documents/kattis/janitortroubles/bin/Debug/netcoreapp2.2/janitortroubles.dll
+/home/czn/Documents/kattis/janitortroubles/bin/Debug/netcoreapp2.2/janitortroubles.pdb
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.dll
+/home/czn/Documents/kattis/janitortroubles/obj/Debug/netcoreapp2.2/janitortroubles.pdb
